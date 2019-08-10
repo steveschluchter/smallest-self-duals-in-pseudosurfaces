@@ -4,7 +4,7 @@ This README file was written to accompany the program SelfDualCheckerForSmallest
 
 The program SelfDualCheckerForSmallestGraph.py was written as part of the research done in the article titled: The smallest self-dual graphs in a pseudosurface, by E.Rarity, S. Schluchter, and J.Z. Schroeder.
 
-The program SelfDualCheckerForSmallestGraph.py runs on Python2 and requires the Python2 library networkx to be installed in order to execute.
+The program SelfDualCheckerForSmallestGraph.py runs on Python2 and requires the Python2 library networkx, version 1.11 to be installed in order to execute.  At lease one later version of networkx has caused this code to crash.  
 
 In order to run the program, first download SelfDualCheckerForSmallestGraph.py and at least one of the graph files F1.txt, F2.txt, F3.txt, F4.txt, F5.txt.  Then, execute the following (this example is from a bash shell running ubuntu linux) shell command: python SelfDualCheckerForSmallestGraph.py F1.txt.  To run the program on the graph file F2.txt, substitute F2.txt in the aforementioned shell command.
 
